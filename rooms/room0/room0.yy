@@ -124,7 +124,7 @@
     },
     "mvc": "1.0",
     "views": [
-{"id": "9ee1b6e1-0e36-465b-a817-7f7d2c1b7957","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
+{"id": "9ee1b6e1-0e36-465b-a817-7f7d2c1b7957","hborder": 240,"hport": 540,"hspeed": -1,"hview": 270,"inherit": false,"modelName": "GMRView","objId": "2917038c-84f0-4fb6-a605-d2ee19e810ef","mvc": "1.0","vborder": 150,"visible": true,"vspeed": -1,"wport": 960,"wview": 480,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "a4035d2e-9547-40e2-9bb4-98cc9ae60d6c","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "8bdb840a-92a2-4492-b42f-d5752c9fff35","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "acf5357e-0efd-4413-943c-e07690f9de7c","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
@@ -135,9 +135,9 @@
     ],
     "viewSettings":     {
         "id": "01ba390c-ea35-4d81-99af-43dd96c76700",
-        "clearDisplayBuffer": true,
-        "clearViewBackground": false,
-        "enableViews": false,
+        "clearDisplayBuffer": false,
+        "clearViewBackground": true,
+        "enableViews": true,
         "inheritViewSettings": false,
         "modelName": "GMRoomViewSettings",
         "mvc": "1.0"
