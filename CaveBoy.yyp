@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "1fe12ec0-8117-445a-aef4-d50b667147ff",
+            "Value": {
+                "id": "1b88c8d5-c07a-4c9a-b948-a8865a122deb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_two\/r_two.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "25d0ee3c-b671-4ea7-bae4-b227143f523b",
             "Value": {
                 "id": "74adc45d-774b-4841-b4a1-3b6ccb65203f",
@@ -205,7 +224,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/r_one\/r_one.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -226,6 +245,25 @@
                 ],
                 "resourcePath": "sprites\/s_player_walk\/s_player_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "490f70f9-2f57-4038-9e72-15969498b5a7",
+            "Value": {
+                "id": "8daa9362-93bd-4d29-a971-cd32b04863d2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_title\/r_title.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -283,6 +321,25 @@
                 ],
                 "resourcePath": "views\/623ad66d-c0f6-49af-8afd-0bb3ce7209f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f18f694-8157-41a1-acad-0b8aaf54ebe8",
+            "Value": {
+                "id": "679f22df-5326-46a9-b8d1-a8ee40377738",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_boss\/r_boss.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -419,6 +476,25 @@
             }
         },
         {
+            "Key": "af1ae5a3-beac-4cc9-bb15-e3c16bb88825",
+            "Value": {
+                "id": "f56c12dd-aa2c-4f5b-9583-48847a6c11ed",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_background\/s_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "afbb65d5-ca6b-416b-9f50-d38908b409f0",
             "Value": {
                 "id": "e51ef3d1-84c7-43fb-9aca-edeb3a718d9a",
@@ -511,6 +587,25 @@
                 ],
                 "resourcePath": "sounds\/a_jump\/a_jump.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d3c15972-a5a5-402b-bd2c-31aed8ea845a",
+            "Value": {
+                "id": "98b28dac-5afd-4450-a245-6c84d30471ba",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_player_stats\/o_player_stats.yy",
+                "resourceType": "GMObject"
             }
         },
         {
