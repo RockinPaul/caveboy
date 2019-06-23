@@ -533,6 +533,25 @@
             }
         },
         {
+            "Key": "bc313d49-ff84-4d51-9996-2fb61b41acdc",
+            "Value": {
+                "id": "fd999d25-bd77-4617-8161-7d1ad93f2a7f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/f_start\/f_start.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "c333f6b7-808f-4723-839c-528168f60f60",
             "Value": {
                 "id": "aa4339f8-18af-44bc-a8ce-d459e67a62df",
@@ -606,6 +625,25 @@
                 ],
                 "resourcePath": "objects\/o_player_stats\/o_player_stats.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d5f2d59b-df5b-4012-9c14-ab8c94e0784c",
+            "Value": {
+                "id": "fe657730-b19c-424c-83c7-160e2014adb3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/f_title\/f_title.yy",
+                "resourceType": "GMFont"
             }
         },
         {
