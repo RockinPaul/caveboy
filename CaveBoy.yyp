@@ -381,6 +381,25 @@
             }
         },
         {
+            "Key": "5b8c6f67-4171-4b00-a68a-f2444e2d5733",
+            "Value": {
+                "id": "2b1204a9-12be-4463-b9af-f0cb7685a41b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_sapphire\/s_sapphire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f08a616-dc46-409d-8e91-17469f094e83",
             "Value": {
                 "id": "408b5f11-8e80-4906-8e98-83527c25c600",
@@ -454,6 +473,25 @@
                 ],
                 "resourcePath": "rooms\/r_boss\/r_boss.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6fc31fcd-9137-43fc-8e00-01e6c96b144f",
+            "Value": {
+                "id": "d16e74a2-512d-43ab-ad5d-6edb6553436f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_sapphire\/o_sapphire.yy",
+                "resourceType": "GMObject"
             }
         },
         {
