@@ -400,6 +400,25 @@
             }
         },
         {
+            "Key": "4d7b076f-6db7-43dd-b576-65288e7d9131",
+            "Value": {
+                "id": "d18fda77-e955-4b0d-85f8-d5873dbfe4e6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/a_ouch\/a_ouch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "55c260a7-0512-4444-bc07-43bfebd4b2e3",
             "Value": {
                 "id": "d6646e26-e1b5-4672-ba22-ecbcccf1f65b",
@@ -492,6 +511,25 @@
                 ],
                 "resourcePath": "views\/623ad66d-c0f6-49af-8afd-0bb3ce7209f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b6a6bc9-d1e8-4bce-94a1-1628d71dd971",
+            "Value": {
+                "id": "02cc4606-c2eb-4807-8df5-ca7ededc10c5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/direction_move_bounce\/direction_move_bounce.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -644,6 +682,25 @@
                 ],
                 "resourcePath": "views\/8d150297-f6c7-4d01-bb98-cb603837dbfb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a0c98383-111f-417d-9216-5d8074405e4e",
+            "Value": {
+                "id": "32dfe9e8-ba33-4115-80b9-cec71cc64b3a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/take_damage\/take_damage.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1219,7 +1276,9 @@
     ],
     "script_order": [
         "efd4718d-cdc3-4fd5-966e-c02deec7a42d",
-        "ff37c783-ade5-474d-877f-a5d832ad942a"
+        "ff37c783-ade5-474d-877f-a5d832ad942a",
+        "a0c98383-111f-417d-9216-5d8074405e4e",
+        "6b6a6bc9-d1e8-4bce-94a1-1628d71dd971"
     ],
     "tutorial": ""
 }
