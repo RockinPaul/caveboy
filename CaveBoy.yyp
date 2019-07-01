@@ -1084,6 +1084,25 @@
             }
         },
         {
+            "Key": "cab5fdcb-013f-4221-990a-e1b07ff4e526",
+            "Value": {
+                "id": "f527635c-a330-439b-b7e3-116f4173cafc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/a_spider\/a_spider.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ce3115b7-8d8b-404c-8d6d-62490e980984",
             "Value": {
                 "id": "45463fd1-805c-456e-9196-1be2d7092f58",
@@ -1198,6 +1217,25 @@
             }
         },
         {
+            "Key": "dceecfa1-a5c3-497f-87fd-18da63dd47a5",
+            "Value": {
+                "id": "ef3ebe43-0263-49f4-a872-a6f8c966973f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_spider\/o_spider.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dfeeddb7-9d6c-443c-91ac-0208b238564f",
             "Value": {
                 "id": "6ee9ea51-03c1-46ae-a3c5-9be87045eb68",
@@ -1214,6 +1252,25 @@
                 ],
                 "resourcePath": "sounds\/a_step\/a_step.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e3ef5bf5-00e1-40ef-9d33-eacec2ed9e61",
+            "Value": {
+                "id": "fd7e08bf-91c3-464d-96f0-e6cde6bc30a5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_spider\/s_spider.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
