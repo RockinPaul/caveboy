@@ -191,25 +191,6 @@
             }
         },
         {
-            "Key": "1fe12ec0-8117-445a-aef4-d50b667147ff",
-            "Value": {
-                "id": "1b88c8d5-c07a-4c9a-b948-a8865a122deb",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/r_two\/r_two.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "25d0ee3c-b671-4ea7-bae4-b227143f523b",
             "Value": {
                 "id": "74adc45d-774b-4841-b4a1-3b6ccb65203f",
@@ -1461,6 +1442,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f54f42c4-512f-4d66-a925-1c982cabb0fa",
+            "Value": {
+                "id": "6b919c2f-f3b0-4447-b037-57da68dd5b93",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_two\/r_two.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
