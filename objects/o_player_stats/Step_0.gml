@@ -1,7 +1,7 @@
 /// @description Begin the game
 
 if (keyboard_check_pressed(vk_space) && room == r_title) {
-	room_goto(r_boss);
+	room_goto(r_one);
 	audio_stop_sound(a_title);
 	audio_play_sound(a_cave, 10, true);
 }
