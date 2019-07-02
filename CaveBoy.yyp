@@ -1464,6 +1464,25 @@
             }
         },
         {
+            "Key": "f702f1cd-3d3c-4d01-aaa8-ff38655ce972",
+            "Value": {
+                "id": "c2f05667-041c-4327-abbb-1ea399fec0b5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_boss\/s_boss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f8b280d2-5415-459e-b1aa-fdfc471dbbf7",
             "Value": {
                 "id": "84f83c7c-ee0b-409e-af28-676800f59075",
